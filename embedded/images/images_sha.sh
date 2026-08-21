@@ -2,9 +2,9 @@
 
 set -eux
 
-BASE_URL=https://github.com/abiosoft/colima-core/releases/download
+BASE_URL=https://github.com/joearasin/colima-core/releases/download
 BASE_FILENAME=ubuntu-24.04-minimal-cloudimg
-VERSION=v0.10.4
+VERSION=v0.10.4-xfs.1
 RUNTIMES="none docker containerd incus"
 ARCHS="arm64 amd64"
 
